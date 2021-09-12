@@ -7,3 +7,5 @@ Data set can be found via this link: https://drive.google.com/drive/folders/1pDP
 There was no morphed masked picture dataset used in the face mask detector. The model is realistic, and because it is based on the MobileNetV2 architecture, it is also computationally more efficient, making it easier to deploy to embedded systems (Raspberry Pi, Google Coral, etc).
 
 As a result, this technology can be employed in real-time applications that require face-mask detection for safety reasons due to the Covid-19 epidemic. This project can be combined with embedded systems and used to ensure that public safety requirements are followed in airports, train stations, offices, schools, and public areas.
+
+This repository features my ammended codes to the base model, which showcases the improved model.
