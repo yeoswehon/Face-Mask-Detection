@@ -1,6 +1,6 @@
 # Face-Mask-Detection using Python
 
-This repository features my amended codes to the base model, which showcases the improved model.
+This repository features my amended codes, which showcases the improved face mask detection model.
 
 Data set can be found via this link: https://drive.google.com/drive/folders/1pDPdVKDokR-qw4QGSvyGdAthY3bfqWTL?usp=sharing
 
