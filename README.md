@@ -1,6 +1,7 @@
 # Face-Mask-Detection using Python
 
 Credits to Balaji Srinivasan for providing the base model and data set.
+
 Data set can be found via this link: https://drive.google.com/drive/folders/1pDPdVKDokR-qw4QGSvyGdAthY3bfqWTL?usp=sharing
 
 There was no morphed masked picture dataset used in the face mask detector. The model is realistic, and because it is based on the MobileNetV2 architecture, it is also computationally more efficient, making it easier to deploy to embedded systems (Raspberry Pi, Google Coral, etc).
