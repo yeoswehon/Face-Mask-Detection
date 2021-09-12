@@ -1,6 +1,6 @@
 # Face-Mask-Detection using Python
 
-Credits to Balaji Srinivasan for providing the base model and data set.
+Credits to Balaji Srinivasan for providing the base model and data set to me.
 
 Data set can be found via this link: https://drive.google.com/drive/folders/1pDPdVKDokR-qw4QGSvyGdAthY3bfqWTL?usp=sharing
 
