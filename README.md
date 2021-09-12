@@ -1,6 +1,6 @@
 # Face-Mask-Detection using Python
 
-Credits to Balaji Srinivasan for providing the base model and data set to me.
+This repository features my ammended codes to the base model, which showcases the improved model.
 
 Data set can be found via this link: https://drive.google.com/drive/folders/1pDPdVKDokR-qw4QGSvyGdAthY3bfqWTL?usp=sharing
 
@@ -8,4 +8,4 @@ There was no morphed masked picture dataset used in the face mask detector. The 
 
 As a result, this technology can be employed in real-time applications that require face-mask detection for safety reasons due to the Covid-19 epidemic. This project can be combined with embedded systems and used to ensure that public safety requirements are followed in airports, train stations, offices, schools, and public areas.
 
-This repository features my ammended codes to the base model, which showcases the improved model.
+Credits to Balaji Srinivasan for providing the base model and data set to me.
